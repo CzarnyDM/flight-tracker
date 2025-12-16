@@ -4,7 +4,7 @@ import json
 import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-BASE_LOCATION = "New York"
+BASE_LOCATION = "Southampton"
 LOCATIONS_FILE = BASE_DIR / "config" / "locations.json"
 
 
