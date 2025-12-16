@@ -1,17 +1,28 @@
-from ..config.settings import BASE_LOCATION
 import time
-import json
-import re
-import os
+import re 
 
-# IDEAS:
-# - Add geo-cordinates based on the location or allow to insert the address and export it from that.
+def get_flight_data(details, callsign, number):
+    
+            origin_name = details['airport']['origin']['name']
+            dest_name = details['airport']['destination']['name']
+            airline = details['airline']['name']
+            exclude_livery = re.search(r'^([^(]+)', airline)
+            aircraft = details['aircraft']['model']['text']
 
+            if exclude_livery:
+                airline_name = exclude_livery.group()
+            else:
+                airline_name = "Unknown"
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+            airline_icao = details['airline']['code']['icao']
+            airline_iata = details['airline']['code']['iata']
+            flight_status = details['status']['text']
+            estimated_time = re.search(r'\d{1,2}:\d{2}', flight_status)
 
-seen_flights = set()
-geo = ""
+            if estimated_time:
+                time_value = estimated_time.group()
+            else:
+                time_value = "Unknown"
 
-
+            return f" Airline: {airline_name} \n Callsign: {callsign} \n Flight number: {number} \n Aircraft Type: {aircraft} \n From: {origin_name} \n To: {dest_name} \n "
 
