@@ -5,8 +5,8 @@ import requests
 
 
 DISCORD_URL = "https://discordapp.com/api/webhooks/1450293001510326344/0CUDF63bAYDPWOF0_mPjiHN2Q5cAkUY5LWbrgZwaNEz9jT-YUyd_NZbqO2J3DLR0K7fE"
-TOKEN =
-USER_KEY = 
+TOKEN = "acdq1x3cy1u4gkvckqxoe89j1g6v7k"
+USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
 def send_notification(alert):
     discord = Discord(url=DISCORD_URL)
@@ -14,8 +14,8 @@ def send_notification(alert):
 
 
     r = requests.post("https://api.pushover.net/1/messages.json", data = {
-    "token": "acdq1x3cy1u4gkvckqxoe89j1g6v7k",
-    "user": "u2i3tny2nc7deaktnr41ur5ier3d1k",
+    "token": TOKEN,
+    "user": USER_KEY,
     "message": alert
     }
     # files = {
