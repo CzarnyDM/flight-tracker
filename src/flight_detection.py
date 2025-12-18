@@ -12,26 +12,23 @@ def detect_flight():
         # norht lat, south lat, west long, east long
         flights = get_coordinates()
 
-
         if flights:
             for flight in flights:
-                
                 flight_key = flight.callsign or flight.id 
-                callsign = flight.callsign
-                number = flight.number
+
                 # prevent from duplicate entries
                 if flight_key in seen_flights:
                     continue
-                
+
                 seen_flights.clear() 
                 seen_flights.add(flight_key)
 
                 details = fr_api.get_flight_details(flight)
-                flight_info = get_flight_data(details, callsign, number)
-
+                flight_info = get_flight_data(details, flight)
 
                 # push it via notification
                 send_notification(flight_info)
+                time.sleep(5)
         else:
             print("No flights detected.")
         
