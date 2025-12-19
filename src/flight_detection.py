@@ -1,13 +1,17 @@
 import re
 from utils.geo import get_coordinates
 from src.api_client import fr_api
-from src.data_processor import get_flight_data
+from src.data_processor import get_flight_data, message, check_fl
 from src.notifier import send_notification
 import time
+import logging
 
 seen_flights = set()
 
+valid_flight = True
+
 def detect_flight():
+    logging.info("Starting the script")
     while True:
         # norht lat, south lat, west long, east long
         flights = get_coordinates()
@@ -24,12 +28,19 @@ def detect_flight():
                 seen_flights.add(flight_key)
 
                 details = fr_api.get_flight_details(flight)
+                logging.info(f"Details: {details}")
+
                 flight_info = get_flight_data(details, flight)
 
-                # push it via notification
-                send_notification(flight_info)
-                time.sleep(5)
+                while check_fl(flight_info) is True:
+                    formatted_message = message(flight_info)
+                    send_notification(formatted_message)
+                    time.sleep(5)
+                else:
+                    continue
+
         else:
+            logging.info("No flight detected.")
             print("No flights detected.")
         
-        time.sleep(10)
+        time.sleep(1)
