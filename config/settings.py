@@ -6,10 +6,10 @@ from datetime import datetime
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-BASE_LOCATION = "New York"
+BASE_LOCATION = "Southampton"
 LOCATIONS_FILE = BASE_DIR / "config" / "locations.json"
 DEFAULT_ALT = 10000
-DATE_AND_TIME = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+DATE_AND_TIME = datetime.now().strftime('%Y%m%d_%H%M%S')
 
 with open(LOCATIONS_FILE, 'r') as file:
     locations = json.load(file)

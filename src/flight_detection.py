@@ -32,10 +32,10 @@ def detect_flight():
 
                 flight_info = get_flight_data(details, flight)
 
-                while check_fl(flight_info) is True:
+                if check_fl(flight_info) is True:
                     formatted_message = message(flight_info)
                     send_notification(formatted_message)
-                    time.sleep(5)
+                    time.sleep(10)
                 else:
                     continue
 
@@ -43,4 +43,4 @@ def detect_flight():
             logging.info("No flight detected.")
             print("No flights detected.")
         
-        time.sleep(1)
+        time.sleep(10)

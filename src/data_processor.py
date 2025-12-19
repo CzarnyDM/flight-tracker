@@ -27,7 +27,7 @@ def get_flight_data(details, flight):
     aircraft = details.get('aircraft', {}).get('model', {}).get('text', "N/A")
     flight_status = details.get('status', {}).get('text', "N/A")
 
-    """" exclude any livery details from the airline name"""
+    """Exclude any livery details from the airline name"""
     exclude_livery = re.search(r'^([^(]+)', airline)
 
     if exclude_livery:
@@ -35,15 +35,25 @@ def get_flight_data(details, flight):
     else:
         airline_name = "N/A"
 
-    """ If the flight is not scheduled, extract time only in use for the notification"""
+    """If the flight is not scheduled, extract time only (used for notification)"""
     if flight_status != "Scheduled":
         estimated_time = re.search(r'\d{1,2}:\d{2}', flight_status)
         if estimated_time:
             flight_status = estimated_time.group()
         else:
             return flight_status
-    if airline_iata and airline_icao is not None:
+
+    if airline_iata is not None and airline_icao is not None:
+        logging.info("IATA and ICAO found, calling logo function")
         logo = get_logo_image(airline_iata, airline_icao)
+        return {
+            "logo": logo
+        }
+    else:
+        logging.info(
+            f"Unable to fetch the logo due to lack of "
+            f"IATA: {airline_iata} or ICAO: {airline_icao}."
+        )
 
     return {
         "airline_name": airline_name,
@@ -53,9 +63,11 @@ def get_flight_data(details, flight):
         "origin": origin_name,
         "destination": dest_name,
         "flight_status": flight_status,
-        "logo": logo,
         "flight_level": int(fl)
     }
+
+
+
 
 def check_fl(flight_data):
     alt = flight_data['flight_level']
@@ -85,6 +97,7 @@ def message(flight_data):
     return msg
 
 def get_logo_image(airline_iata, airline_icao):
+    logging.INFO(f"Attempting to obtain logo for IATA: {airline_iata} ICAO {airline_icao}")
     logo = fr_api.get_airline_logo(airline_iata, airline_icao)
     filename = f'.//airline_logo.jpg'
     with open(filename, 'wb') as f:

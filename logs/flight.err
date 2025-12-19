@@ -1,0 +1,324 @@
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 23, in get_flight_data
+    dest_name = details.get('airport', {}).get('destination', {}).get('name' , "N/A")
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 23, in get_flight_data
+    dest_name = details.get('airport', {}).get('destination', {}).get('name' , "N/A")
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 56, in get_flight_data
+    "logo": logo,
+            ^^^^
+UnboundLocalError: cannot access local variable 'logo' where it is not associated with a value
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    return "logo": logo
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    return "logo": logo
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    return "logo": logo
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    return "logo": logo
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    return "logo": logo
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 48
+    return {
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 48
+    return {
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 48
+    return {
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 48
+    return {
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 48
+    return {
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 35, in detect_flight
+    if check_fl(flight_info) is True:
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 67, in check_fl
+    alt = flight_data['flight_level']
+          ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'flight_level'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 35, in detect_flight
+    if check_fl(flight_info) is True:
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 67, in check_fl
+    alt = flight_data['flight_level']
+          ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'flight_level'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 35, in detect_flight
+    if check_fl(flight_info) is True:
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 67, in check_fl
+    alt = flight_data['flight_level']
+          ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'flight_level'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    logging.INFO("IATA and ICAO found, calling logo function")
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    logging.INFO("IATA and ICAO found, calling logo function")
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    logging.INFO("IATA and ICAO found, calling logo function")
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    logging.INFO("IATA and ICAO found, calling logo function")
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 2, in <module>
+    from src.flight_detection import detect_flight
+  File "/root/flight-tracker/src/flight_detection.py", line 4, in <module>
+    from src.data_processor import get_flight_data, message, check_fl
+  File "/root/flight-tracker/src/data_processor.py", line 47
+    logging.INFO("IATA and ICAO found, calling logo function")
+TabError: inconsistent use of tabs and spaces in indentation
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/root/flight-tracker/main.py", line 7, in <module>
+    main()
+  File "/root/flight-tracker/main.py", line 5, in main
+    detect_flight()
+  File "/root/flight-tracker/src/flight_detection.py", line 33, in detect_flight
+    flight_info = get_flight_data(details, flight)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/flight-tracker/src/data_processor.py", line 22, in get_flight_data
+    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
