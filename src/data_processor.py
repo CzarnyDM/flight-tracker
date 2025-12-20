@@ -99,7 +99,7 @@ def get_logo_image(airline_iata, airline_icao):
         filename = f'.//airline_logo.jpg'
         with open(filename, 'wb') as f:
             image = f.write(logo[0])
-        return filename
+        return filename, logo_not_found
     except:
         return logo_not_found
 

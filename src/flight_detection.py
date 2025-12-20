@@ -38,7 +38,7 @@ def detect_flight():
                 # logging.info(f"Details: {details}")
 
                 flight_info = get_flight_data(details, flight)
-                # print(f"Current flight info in detection {flight_info}")
+                print(f"Current flight info in detection {flight_info}")
 
                 # Capture any errors from the API if not returned as dict
                 if not isinstance(flight_info, dict):
