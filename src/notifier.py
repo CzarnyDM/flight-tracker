@@ -10,6 +10,7 @@ def send_notification(alert, islogo):
     print(f"Alert type {type(alert)}")
 
     print(f"islogo: {islogo}")
+    print(f"Type of islogo: {type(islogo)}")
 
 
     # if alert['logo'] is not None:
