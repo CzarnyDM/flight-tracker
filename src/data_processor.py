@@ -56,7 +56,7 @@ def get_flight_data(details, flight):
         "destination": dest_name,
         "flight_status": flight_status,
         "flight_level": int(fl),
-        "logo" : logo[1]
+        "logo": logo
     }
 
 
