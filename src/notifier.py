@@ -5,7 +5,8 @@ TOKEN = "acdq1x3cy1u4gkvckqxoe89j1g6v7k"
 USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
 def send_notification(alert):
-    print(f" alert: {alert}")
+    print('*' * 100)
+    print(f" ALERT: {alert}")
     print(f" type of: {type(alert)}")
     # if alert['logo'] is not None:
     #     logging.info(f"Sending notification with an image for {alert['number']}")
