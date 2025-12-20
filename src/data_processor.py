@@ -58,7 +58,7 @@ def get_flight_data(details, flight):
         "destination": dest_name,
         "flight_status": flight_status,
         "flight_level": int(fl),
-        "logo" : logo
+        "logo" : logo[1]
     }
 
 
@@ -83,14 +83,12 @@ def message(flight_data):
         f" To: {flight_data['destination']}\n"
         f" Flight status: {flight_data['flight_status']}\n"
         f" Altitude {flight_data['flight_level']} feet\n"
-    ),
+    )
 
-    logo = {flight_data['logo']}
-    
 
     logging.info(f"Airline: {flight_data['airline_name']}, Callsign: {flight_data['callsign']}, Flight number: {flight_data['number']}, Aircraft Type: {flight_data['aircraft']}, From: {flight_data['origin']}, To: {flight_data['destination']} ,Flight status: {flight_data['flight_status']}, Flight level: {flight_data['flight_level']}")
-    print(msg, logo)
-    return msg, logo
+    print(msg)
+    return msg
 
 def get_logo_image(airline_iata, airline_icao):
     try:
