@@ -4,15 +4,12 @@ import logging
 TOKEN = "acdq1x3cy1u4gkvckqxoe89j1g6v7k"
 USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
-def send_notification(alert):
+def send_notification(alert, islogo):
     print('*' * 100)
     print(f"Alert: {alert}")
     print(f"Alert type {type(alert)}")
 
-    if "True" in alert[1]:
-        print("True is seen in notification")
-    else:
-        print("True is not seen in ontification")
+    print(f"islogo: {islogo}")
 
 
     # if alert['logo'] is not None:
