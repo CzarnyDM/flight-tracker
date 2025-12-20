@@ -84,6 +84,7 @@ def message(flight_data):
         f" To: {flight_data['destination']}\n"
         f" Flight status: {flight_data['flight_status']}\n"
         f" Altitude {flight_data['flight_level']} feet"
+        f"Logo: {flight_data['logo']}"
      )
 
     logging.info(f"Airline: {flight_data['airline_name']}\nCallsign: {flight_data['callsign']}\nFlight number: {flight_data['number']}\nAircraft Type: {flight_data['aircraft']}\nFrom: {flight_data['origin']}\nTo: {flight_data['destination']}\nFlight status: {flight_data['flight_status']}\nFlight level: {flight_data['flight_level']}")
