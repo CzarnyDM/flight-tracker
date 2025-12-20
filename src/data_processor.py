@@ -84,7 +84,7 @@ def message(flight_data):
         f" To: {flight_data['destination']}\n"
         f" Flight status: {flight_data['flight_status']}\n"
         f" Altitude {flight_data['flight_level']} feet\n"
-        f"Logo: {flight_data['logo']}"
+        # f"Logo: {flight_data['logo']}"
     )
 
     logo = {flight_data['logo']}
