@@ -7,7 +7,7 @@ USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 def send_notification(alert, islogo, airline):
     if islogo[1] is True:
         logging.info(f"Sending notification with an image for {airline}")
-        print(f"Sending notification with an image for {alert['number']}")
+        print(f"Sending notification with an image for {airline}")
 
         r = requests.post("https://api.pushover.net/1/messages.json", data = {
         "token": TOKEN,
