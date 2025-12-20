@@ -4,6 +4,7 @@ from src.api_client import fr_api
 from config.settings import DEFAULT_ALT
 import logging
 
+logo_not_found = True
 
 
 def get_flight_data(details, flight):
@@ -41,10 +42,12 @@ def get_flight_data(details, flight):
 
     
     else:
+        logo = logo_not_found 
         logging.info(
             f"Unable to fetch the logo due to lack of "
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
+        
 
 
     return {
@@ -95,7 +98,7 @@ def get_logo_image(airline_iata, airline_icao):
             image = f.write(logo[0])
         return filename
     except:
-        return None
+        return logo_not_found
 
 def deep_get(data, keys, default=None):
     for key in keys:
