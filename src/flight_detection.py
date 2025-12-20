@@ -34,7 +34,7 @@ def detect_flight():
                 seen_flights.add(flight_key)
 
                 details = fr_api.get_flight_details(flight)
-                save_to_file(details, "details")
+                save_to_file(str(details), "details")
                 # logging.info(f"Details: {details}")
 
                 flight_info = get_flight_data(details, flight)
