@@ -46,18 +46,11 @@ def get_flight_data(details, flight):
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
 
-    # print("=== Flight Data Debug ===")
-    # print(f"Airline Name   : {airline}")
-    # print(f"Callsign       : {callsign}")
-    # print(f"Flight Number  : {number}")
-    # print(f"Aircraft       : {aircraft}")
-    # print(f"Origin         : {origin_name}")
-    # print(f"Destination    : {dest_name}")
-    # print(f"Flight Status  : {flight_status}")
-    # print(f"Flight Level   : {int(fl)}")
-    # print("==========================")
-
-
+    logging.info(
+        f"Flight data: airline={airline}, callsign={callsign}, number={number}, "
+        f"aircraft={aircraft}, origin={origin_name}, destination={dest_name}, "
+        f"status={flight_status}, level={int(fl)}, logo={logo}"
+    )
     return {
         "airline_name": airline,
         "callsign": callsign,
@@ -74,12 +67,14 @@ def get_flight_data(details, flight):
 def check_fl(flight_data):
     alt = flight_data['flight_level']
     nr = flight_data['number']
-    if alt > DEFAULT_ALT:
-        print(f"Discarded the flight {nr} because it is above 10k feet.")
-        logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
-        return
+    if alt > DEFAULT_ALT or alt == 0:
+        print(f"Discarded the flight {nr} because it is above 10k feet or at ground.")
+        logging.info(f"Discarded the flight {nr} because it is above 10k feet or at ground.")
+        return False
     
     else:
+        logging.info(f"Discarded the flight {nr} because it is above 10k feet or at ground.")
+        print(f"Current FL: {alt}")
         return True
 
 def message(flight_data):
@@ -94,7 +89,7 @@ def message(flight_data):
         f" Flight level: {flight_data['flight_level']}"
      )
 
-    logging.info(msg)
+    logging.info(f"Airline: {flight_data['airline_name']}\nCallsign: {flight_data['callsign']}\nFlight number: {flight_data['number']}\nAircraft Type: {flight_data['aircraft']}\nFrom: {flight_data['origin']}\nTo: {flight_data['destination']}\nFlight status: {flight_data['flight_status']}\nFlight level: {flight_data['flight_level']}")
     print(msg)
     return msg
 
