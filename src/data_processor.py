@@ -39,6 +39,7 @@ def get_flight_data(details, flight):
     if airline_iata is not None and airline_icao is not None:
         logging.info(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
         logo = get_logo_image(airline_iata, airline_icao)
+        print(f"logo output in data+processor {logo}")
 
     
     else:
@@ -48,8 +49,6 @@ def get_flight_data(details, flight):
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
         
-
-
     return {
         "airline_name": airline,
         "callsign": callsign,
