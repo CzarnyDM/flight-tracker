@@ -6,7 +6,7 @@ USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
 def send_notification(alert, islogo, airline):
 
-    if islogo is True:
+    if islogo[1] is True:
         logging.info(f"Sending notification with an image for {airline}")
         print(f"Sending notification with an image for {airline}")
 
