@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-BASE_LOCATION = "Southampton"
+BASE_LOCATION = "Chicago"
 LOCATIONS_FILE = BASE_DIR / "config" / "locations.json"
 DEFAULT_ALT = 10000
 DATE_AND_TIME = datetime.now().strftime('%Y%m%d_%H%M%S')

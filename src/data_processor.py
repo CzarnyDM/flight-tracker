@@ -17,23 +17,15 @@ def get_flight_data(details, flight):
     if extract_int:
         fl = extract_int.group()
     else:
-        fl = "N/A"
+        fl = 0
 
-    origin_name = details.get('airport', {}).get('origin', {}).get('name', " N/A")
-    dest_name = details.get('airport', {}).get('destination', {}).get('name' , "N/A")
-    airline = details.get('airline', {}).get('name', "N/A")
-    airline_icao = details.get('airline', {}).get('code', {}).get('icao', 'N/A')
-    airline_iata = details.get('airline', {}).get('code', {}).get('iata', 'N/A')
-    aircraft = details.get('aircraft', {}).get('model', {}).get('text', "N/A")
-    flight_status = details.get('status', {}).get('text', "N/A")
-
-    """Exclude any livery details from the airline name"""
-    exclude_livery = re.search(r'^([^(]+)', airline)
-
-    if exclude_livery:
-        airline_name = exclude_livery.group()
-    else:
-        airline_name = "N/A"
+    origin_name = deep_get(details, ['airport', 'origin', 'name'], 'N/A')
+    dest_name = deep_get(details, ['airport', 'origin', 'name'], 'N/A')
+    airline = deep_get(details, ['airline', 'name'], 'N/A')
+    airline_icao = deep_get(details, ['airline', 'code', 'icao'], 'N/A')
+    airline_iata = deep_get(details, ['airline', 'code', 'iata'], 'N/A')
+    aircraft = deep_get(details, ['aircraft', 'model', 'text'], 'N/A')
+    flight_status  = deep_get(details, ['status', 'text'], 'N/A')
 
     """If the flight is not scheduled, extract time only (used for notification)"""
     if flight_status != "Scheduled":
@@ -44,29 +36,39 @@ def get_flight_data(details, flight):
             return flight_status
 
     if airline_iata is not None and airline_icao is not None:
-        logging.info("IATA and ICAO found, calling logo function")
+        logging.info(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
         logo = get_logo_image(airline_iata, airline_icao)
-        return {
-            "logo": logo
-        }
+
+    
     else:
         logging.info(
             f"Unable to fetch the logo due to lack of "
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
 
+    # print("=== Flight Data Debug ===")
+    # print(f"Airline Name   : {airline}")
+    # print(f"Callsign       : {callsign}")
+    # print(f"Flight Number  : {number}")
+    # print(f"Aircraft       : {aircraft}")
+    # print(f"Origin         : {origin_name}")
+    # print(f"Destination    : {dest_name}")
+    # print(f"Flight Status  : {flight_status}")
+    # print(f"Flight Level   : {int(fl)}")
+    # print("==========================")
+
+
     return {
-        "airline_name": airline_name,
+        "airline_name": airline,
         "callsign": callsign,
         "number": number,
         "aircraft": aircraft,
         "origin": origin_name,
         "destination": dest_name,
         "flight_status": flight_status,
-        "flight_level": int(fl)
+        "flight_level": int(fl),
+        "logo" : logo
     }
-
-
 
 
 def check_fl(flight_data):
@@ -90,17 +92,27 @@ def message(flight_data):
         f" To: {flight_data['destination']}\n"
         f" Flight status: {flight_data['flight_status']}\n"
         f" Flight level: {flight_data['flight_level']}"
-    )
+     )
 
     logging.info(msg)
     print(msg)
     return msg
 
 def get_logo_image(airline_iata, airline_icao):
-    logging.INFO(f"Attempting to obtain logo for IATA: {airline_iata} ICAO {airline_icao}")
-    logo = fr_api.get_airline_logo(airline_iata, airline_icao)
-    filename = f'.//airline_logo.jpg'
-    with open(filename, 'wb') as f:
-        image = f.write(logo[0])
+    try:
+        logo = fr_api.get_airline_logo(airline_iata, airline_icao)
+        filename = f'.//airline_logo.jpg'
+        with open(filename, 'wb') as f:
+            image = f.write(logo[0])
+        return filename
+    except:
+        return None
 
-
+def deep_get(data, keys, default=None):
+    for key in keys:
+        if not isinstance(data, dict):
+            return default
+        data = data.get(key)
+        if data is None:
+            return default
+    return data
