@@ -49,7 +49,7 @@ def detect_flight():
                     check_fl(flight_info)
                     # capture all flights that are within the specified FL
                     if check_fl(flight_info) is True:
-                        send_notification(message(flight_info), flight_info['logo'], flight_info['number'])
+                        send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
                     else:
                         continue
                 time.sleep(5)

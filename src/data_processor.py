@@ -4,7 +4,7 @@ from src.api_client import fr_api
 from config.settings import DEFAULT_ALT
 import logging
 
-logo_not_found = True
+logo_not_found = False
 
 
 def get_flight_data(details, flight):
@@ -38,6 +38,7 @@ def get_flight_data(details, flight):
 
     if airline_iata is not None and airline_icao is not None:
         logging.info(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
+        print(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
         logo = get_logo_image(airline_iata, airline_icao)
     
     else:
@@ -46,6 +47,9 @@ def get_flight_data(details, flight):
             f"Unable to fetch the logo due to lack of "
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
+        print(f"Unable to fetch the logo due to lack of IATA: {airline_iata} or ICAO: {airline_icao}.")
+
+    print(f"Logo before returning to flight_detection: {logo}")
         
     return {
         "airline_name": airline,
@@ -74,13 +78,13 @@ def check_fl(flight_data):
 def message(flight_data):
     msg = (
         f" Airline: {flight_data['airline_name']}\n"
-        f" Callsign: {flight_data['callsign']}\n"
-        f" Flight number: {flight_data['number']}\n"
-        f" Aircraft Type: {flight_data['aircraft']}\n"
-        f" From: {flight_data['origin']}\n"
-        f" To: {flight_data['destination']}\n"
-        f" Flight status: {flight_data['flight_status']}\n"
-        f" Altitude {flight_data['flight_level']} feet\n"
+        # f" Callsign: {flight_data['callsign']}\n"
+        # f" Flight number: {flight_data['number']}\n"
+        # f" Aircraft Type: {flight_data['aircraft']}\n"
+        # f" From: {flight_data['origin']}\n"
+        # f" To: {flight_data['destination']}\n"
+        # f" Flight status: {flight_data['flight_status']}\n"
+        # f" Altitude {flight_data['flight_level']} feet\n"
     )
 
 
@@ -94,8 +98,12 @@ def get_logo_image(airline_iata, airline_icao):
         filename = f'.//airline_logo.jpg'
         with open(filename, 'wb') as f:
             image = f.write(logo[0])
+        print("Logo generated successfully")
+        logging.info("Logo generated successfully.")
         return filename, logo_not_found-False
     except:
+        print("Logo not found.")
+        logging.info("Logo not found.")
         return logo_not_found
 
 def deep_get(data, keys, default=None):

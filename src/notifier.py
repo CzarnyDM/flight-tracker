@@ -4,7 +4,7 @@ import logging
 TOKEN = "acdq1x3cy1u4gkvckqxoe89j1g6v7k"
 USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
-def send_notification(alert, islogo, number):
+def send_notification(alert, islogo, airline):
     if islogo[1] is True:
         logging.info(f"Sending notification with an image for {alert['number']}")
         print(f"Sending notification with an image for {alert['number']}")
@@ -20,8 +20,8 @@ def send_notification(alert, islogo, number):
     )
 
     else:
-        logging.info(f"Private airline or no logo found. Sending notification without an image for {number}")
-        print(f"Private airline or no logo found. Sending notification without an image for {number}")
+        logging.info(f"Private airline or no logo found. Sending notification without an image for {airline}")
+        print(f"Private airline or no logo found. Sending notification without an image for {airline}")
         r = requests.post("https://api.pushover.net/1/messages.json", data = {
         "token": TOKEN,
         "user": USER_KEY,
