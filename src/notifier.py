@@ -5,7 +5,7 @@ TOKEN = "acdq1x3cy1u4gkvckqxoe89j1g6v7k"
 USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 
 def send_notification(alert, islogo, airline):
-    if islogo[1] is True:
+    if islogo is True:
         logging.info(f"Sending notification with an image for {airline}")
         print(f"Sending notification with an image for {airline}")
 
