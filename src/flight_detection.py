@@ -3,7 +3,7 @@ from utils.geo import get_coordinates
 from src.api_client import fr_api
 from src.data_processor import get_flight_data, message, check_fl
 from src.notifier import send_notification
-from config.settings import BASE_LOCATION
+from config.settings import BASE_LOCATION, save_to_file
 import time
 import logging
 
@@ -34,7 +34,8 @@ def detect_flight():
                 seen_flights.add(flight_key)
 
                 details = fr_api.get_flight_details(flight)
-                logging.info(f"Details: {details}")
+                save_to_file(details, "details")
+                # logging.info(f"Details: {details}")
 
                 flight_info = get_flight_data(details, flight)
                 print(f"Current flight info in detection {flight_info}")

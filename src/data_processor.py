@@ -20,7 +20,7 @@ def get_flight_data(details, flight):
         fl = 0
 
     origin_name = deep_get(details, ['airport', 'origin', 'name'], 'N/A')
-    dest_name = deep_get(details, ['airport', 'origin', 'name'], 'N/A')
+    dest_name = deep_get(details, ['airport', 'destination', 'name'], 'N/A')
     airline = deep_get(details, ['airline', 'name'], 'N/A')
     airline_icao = deep_get(details, ['airline', 'code', 'icao'], 'N/A')
     airline_iata = deep_get(details, ['airline', 'code', 'iata'], 'N/A')
@@ -45,17 +45,6 @@ def get_flight_data(details, flight):
             f"Unable to fetch the logo due to lack of "
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
-
-    # print("=== Flight Data Debug ===")
-    # print(f"Airline Name   : {airline}")
-    # print(f"Callsign       : {callsign}")
-    # print(f"Flight Number  : {number}")
-    # print(f"Aircraft       : {aircraft}")
-    # print(f"Origin         : {origin_name}")
-    # print(f"Destination    : {dest_name}")
-    # print(f"Flight Status  : {flight_status}")
-    # print(f"Flight Level   : {int(fl)}")
-    # print("==========================")
 
 
     return {
@@ -91,10 +80,10 @@ def message(flight_data):
         f" From: {flight_data['origin']}\n"
         f" To: {flight_data['destination']}\n"
         f" Flight status: {flight_data['flight_status']}\n"
-        f" Flight level: {flight_data['flight_level']}"
+        f" Altitude {flight_data['flight_level']} feet"
      )
 
-    logging.info(msg)
+    logging.info(f"Airline: {flight_data['airline_name']}\nCallsign: {flight_data['callsign']}\nFlight number: {flight_data['number']}\nAircraft Type: {flight_data['aircraft']}\nFrom: {flight_data['origin']}\nTo: {flight_data['destination']}\nFlight status: {flight_data['flight_status']}\nFlight level: {flight_data['flight_level']}")
     print(msg)
     return msg
 

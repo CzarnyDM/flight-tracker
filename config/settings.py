@@ -22,3 +22,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S"
 )
+
+def save_to_file(file_name, content):
+    with open(f"./logs/{file_name}.txt", "a") as f:
+        f.write(content)
