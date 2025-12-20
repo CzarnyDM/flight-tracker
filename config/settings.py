@@ -23,6 +23,6 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S"
 )
 
-def save_to_file(file_name, content):
+def save_to_file(content, file_name):
     with open(f"./logs/{file_name}.txt", "a") as f:
         f.write(content)

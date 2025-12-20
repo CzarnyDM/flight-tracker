@@ -1,2 +1,3 @@
-venv
-scr/api_client.py
+venv/*
+src/api_client.py
+logs/*
