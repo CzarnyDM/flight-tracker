@@ -34,24 +34,24 @@ def detect_flight():
                 seen_flights.add(flight_key)
 
                 details = fr_api.get_flight_details(flight)
-                logging.info(f"Details: {details}")
+                logging.warning(details)
 
                 flight_info = get_flight_data(details, flight)
-                print(f"Current flight info in detection {flight_info}")
 
                 # Capture any errors from the API if not returned as dict
                 if not isinstance(flight_info, dict):
                     logging.info("Details not returning dictonary, aborting the flight.")
+                    print("=== Details not returning dictonary, aborting the flight ===")
                     continue
 
                 else:
-                    check_fl(flight_info)
                     # capture all flights that are within the specified FL
                     if check_fl(flight_info) is True:
-                        send_notification(message(flight_info))
+                        message(flight_info)
+                        # send_notification(message(flight_info))
                     else:
                         continue
-                time.sleep(5)
+                time.sleep(1)
 
 
 
