@@ -9,7 +9,7 @@ def send_notification(alert):
     print(f"Alert: {alert}")
     print(f"Alert type {type(alert)}")
 
-    if True in alert[1]:
+    if "True" in alert[1]:
         print("True is seen in notification")
     else:
         print("True is not seen in ontification")
