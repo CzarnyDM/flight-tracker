@@ -21,38 +21,41 @@ def detect_flight():
         flights = get_coordinates()
 
         if flights:
-            for flight in flights:
-                flight_key = flight.callsign or flight.id 
+            try:
+                for flight in flights:
+                    flight_key = flight.callsign or flight.id 
 
-                # prevent from duplicate entries
-                if flight_key in seen_flights:
-                    print(f"Duplicate flight {flight_key}")
-                    logging.info(f"Duplicate flight {flight_key}")
-                    continue
-
-                seen_flights.clear() 
-                seen_flights.add(flight_key)
-
-                details = fr_api.get_flight_details(flight)
-                save_to_file(str(details), "details")
-                # logging.info(f"Details: {details}")
-
-                flight_info = get_flight_data(details, flight)
-                print(f"Current flight info in detection {flight_info}")
-
-                # Capture any errors from the API if not returned as dict
-                if not isinstance(flight_info, dict):
-                    logging.info("Details not returning dictonary, aborting the flight.")
-                    continue
-
-                else:
-                    check_fl(flight_info)
-                    # capture all flights that are within the specified FL
-                    if check_fl(flight_info) is True:
-                        send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
-                    else:
+                    # prevent from duplicate entries
+                    if flight_key in seen_flights:
+                        print(f"Duplicate flight {flight_key}")
+                        logging.info(f"Duplicate flight {flight_key}")
                         continue
-                time.sleep(5)
+
+                    seen_flights.clear() 
+                    seen_flights.add(flight_key)
+
+                    details = fr_api.get_flight_details(flight)
+                    save_to_file(str(details), "details")
+                    # logging.info(f"Details: {details}")
+
+                    flight_info = get_flight_data(details, flight)
+                    print(f"Current flight info in detection {flight_info}")
+
+                    # Capture any errors from the API if not returned as dict
+                    if not isinstance(flight_info, dict):
+                        logging.info("Details not returning dictonary, aborting the flight.")
+                        continue
+
+                    else:
+                        check_fl(flight_info)
+                        # capture all flights that are within the specified FL
+                        if check_fl(flight_info) is True:
+                            send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
+                        else:
+                            continue
+                    time.sleep(5)
+            except:
+                continue
 
 
 
