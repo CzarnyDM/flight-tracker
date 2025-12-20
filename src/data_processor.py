@@ -100,7 +100,7 @@ def get_logo_image(airline_iata, airline_icao):
             image = f.write(logo[0])
         print("Logo generated successfully")
         logging.info("Logo generated successfully.")
-        return filename, logo_not_found-False
+        return filename, True
     except:
         print("Logo not found.")
         logging.info("Logo not found.")
