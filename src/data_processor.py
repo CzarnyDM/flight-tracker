@@ -87,7 +87,7 @@ def message(flight_data):
         # f"Logo: {flight_data['logo']}"
     )
 
-    logo = {flight_data['logo'][0]}
+    logo = {flight_data['logo']}
     
 
     logging.info(f"Airline: {flight_data['airline_name']}, Callsign: {flight_data['callsign']}, Flight number: {flight_data['number']}, Aircraft Type: {flight_data['aircraft']}, From: {flight_data['origin']}, To: {flight_data['destination']} ,Flight status: {flight_data['flight_status']}, Flight level: {flight_data['flight_level']}")
