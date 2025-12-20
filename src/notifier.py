@@ -7,7 +7,8 @@ USER_KEY = "u2i3tny2nc7deaktnr41ur5ier3d1k"
 def send_notification(alert):
     print('*' * 100)
     print(f" ALERT: {alert}")
-    print(type(alert))
+    print(f" ALERT TUPLE 0: {alert[0]}")
+    print(f" ALERT TUPLE 0: {alert[1]}")
 
     # if alert['logo'] is not None:
     #     logging.info(f"Sending notification with an image for {alert['number']}")
