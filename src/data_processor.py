@@ -64,9 +64,17 @@ def get_flight_data(details, flight):
 def check_fl(flight_data):
     alt = flight_data['flight_level']
     nr = flight_data['number']
-    print(DEFAULT_ALT)
     print(f"**** Current FL: {alt}")
+    print(type(alt))
     print(f"**** Current Default ALT: {DEFAULT_ALT}")
+    print(type(DEFAULT_ALT))
+    if alt > DEFAULT_ALT:
+        print(f"{alt} > {DEFAULT_ALT}")
+    elif alt < DEFAULT_ALT:
+        print(f"{alt} < {DEFAULT_ALT}")
+    else:
+        print(f"{alt} == {DEFAULT_ALT}")
+
     # if alt < DEFAULT_ALT or alt != 0:
     #     if alt == 0:
     #         print(f"Discarded the flight {nr} because the flight is on the ground")
