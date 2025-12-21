@@ -65,9 +65,13 @@ def get_flight_data(details, flight):
 def check_fl(flight_data):
     alt = flight_data['flight_level']
     nr = flight_data['number']
-    if alt > DEFAULT_ALT:
-        print(f"Discarded the flight {nr} because it is above 10k feet.")
-        logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
+    if alt > DEFAULT_ALT and alt != 0:
+        if alt == 0:
+            print(f"Discarded the flight {nr} because the flight is on the ground")
+            logging.info(f"Discarded the flight {nr} bbecause the flight is on the ground")
+        else:
+            print(f"Discarded the flight {nr} because it is above 10k feet")
+            logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
         return
     
     else:
