@@ -75,24 +75,15 @@ def check_fl(flight_data):
     else:
         return True
 
-    # if alt < DEFAULT_ALT or alt != 0:
-    #     if alt == 0:
-
-    #     else:
-
-    #     return
-    # else:
-    #     return True
-
 def message(flight_data):
     msg = (
-        # f" Airline: {flight_data['airline_name']}\n"
-        # f" Callsign: {flight_data['callsign']}\n"
-        # f" Flight number: {flight_data['number']}\n"
-        # f" Aircraft Type: {flight_data['aircraft']}\n"
-        # f" From: {flight_data['origin']}\n"
-        # f" To: {flight_data['destination']}\n"
-        # f" Flight status: {flight_data['flight_status']}\n"
+        f" Airline: {flight_data['airline_name']}\n"
+        f" Callsign: {flight_data['callsign']}\n"
+        f" Flight number: {flight_data['number']}\n"
+        f" Aircraft Type: {flight_data['aircraft']}\n"
+        f" From: {flight_data['origin']}\n"
+        f" To: {flight_data['destination']}\n"
+        f" Flight status: {flight_data['flight_status']}\n"
         f" Altitude {flight_data['flight_level']} feet\n"
     )
 
