@@ -49,7 +49,7 @@ def detect_flight():
                         # capture all flights that are within the specified FL
                         if check_fl(flight_info) is True:
                             print(f"Check is true as it passess the requirements, current FL is {flight_info["flight_level"]}")
-                            send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
+                            # send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
                         else:
                             print(f"Ignoring the notification as the flight level is below or above the requirement: {flight_info["flight_level"]}")
                             continue
