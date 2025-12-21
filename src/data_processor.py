@@ -36,7 +36,6 @@ def get_flight_data(details, flight):
 
     if airline_iata is not None and airline_icao is not None:
         logging.info(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
-        print(f"IATA: {airline_iata} of type: {type(airline_iata)} and ICAO: {airline_icao} of type: {type(airline_icao)} found, calling logo function")
         logo = get_logo_image(airline_iata, airline_icao)
     
     else:
@@ -65,6 +64,7 @@ def get_flight_data(details, flight):
 def check_fl(flight_data):
     alt = flight_data['flight_level']
     nr = flight_data['number']
+    print(f"**** Current FL before the if: {alt}")
     if alt > DEFAULT_ALT and alt != 0:
         if alt == 0:
             print(f"Discarded the flight {nr} because the flight is on the ground")
@@ -73,7 +73,6 @@ def check_fl(flight_data):
             print(f"Discarded the flight {nr} because it is above 10k feet")
             logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
         return
-    
     else:
         return True
 

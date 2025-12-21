@@ -45,7 +45,7 @@ def detect_flight():
 
                     else:
                         check_fl(flight_info)
-                        print(f"Calling check flight function returns: {check_fl}")
+                        print(f"Calling check flight function returns: {check_fl(flight_info)}")
                         # capture all flights that are within the specified FL
                         if check_fl(flight_info) is True:
                             print(f"Check is true as it passess the requirements, current FL is {flight_info["flight_level"]}")
