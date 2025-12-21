@@ -44,14 +44,13 @@ def detect_flight():
                         continue
 
                     else:
-                        check_fl(flight_info)
-                        print(f"Calling check flight function returns: {check_fl(flight_info)}")
+                        fl = check_fl(flight_info)
                         # capture all flights that are within the specified FL
-                        if check_fl(flight_info) is True:
-                            print(f"Check is true as it passess the requirements, current FL is {flight_info["flight_level"]}")
+                        if fl is True:
+                            print(f"Flight Number: {flight_info['number']} -- Check is true as it passess the requirements, current FL is {flight_info["flight_level"]}")
                             send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
                         else:
-                            print(f"Ignoring the notification as the flight level is below or above the requirement: {flight_info["flight_level"]}")
+                            print(f"Flight Number: {flight_info['number']} -- Ignoring the notification as the flight level is below or above the requirement: {flight_info["flight_level"]}")
                             continue
                     time.sleep(5)
             except:
