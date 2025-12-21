@@ -64,17 +64,19 @@ def get_flight_data(details, flight):
 def check_fl(flight_data):
     alt = flight_data['flight_level']
     nr = flight_data['number']
-    print(f"**** Current FL before the if: {alt}")
-    if alt < DEFAULT_ALT or alt != 0:
-        if alt == 0:
-            print(f"Discarded the flight {nr} because the flight is on the ground")
-            logging.info(f"Discarded the flight {nr} bbecause the flight is on the ground")
-        else:
-            print(f"Discarded the flight {nr} because it is above 10k feet")
-            logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
-        return
-    else:
-        return True
+    print(DEFAULT_ALT)
+    print(f"**** Current FL: {alt}")
+    print(f"**** Current Default ALT: {DEFAULT_ALT}")
+    # if alt < DEFAULT_ALT or alt != 0:
+    #     if alt == 0:
+    #         print(f"Discarded the flight {nr} because the flight is on the ground")
+    #         logging.info(f"Discarded the flight {nr} bbecause the flight is on the ground")
+    #     else:
+    #         print(f"Discarded the flight {nr} because it is above 10k feet")
+    #         logging.info(f"Discarded the flight {nr} because it is above 10k feet.")
+    #     return
+    # else:
+    #     return True
 
 def message(flight_data):
     msg = (
