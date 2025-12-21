@@ -36,10 +36,7 @@ def detect_flight():
 
                     details = fr_api.get_flight_details(flight)
                     save_to_file(str(details), "details")
-                    # logging.info(f"Details: {details}")
-
                     flight_info = get_flight_data(details, flight)
-                    print(f"Current flight info in detection {flight_info}")
 
                     # Capture any errors from the API if not returned as dict
                     if not isinstance(flight_info, dict):
@@ -48,10 +45,13 @@ def detect_flight():
 
                     else:
                         check_fl(flight_info)
+                        print(f"Calling check flight function returns: {check_fl}")
                         # capture all flights that are within the specified FL
                         if check_fl(flight_info) is True:
+                            print(f"Check is true as it passess the requirements, current FL is {flight_info["flight_level"]}")
                             send_notification(message(flight_info), flight_info['logo'], flight_info['airline_name'])
                         else:
+                            print(f"Ignoring the notification as the flight level is below or above the requirement: {flight_info["flight_level"]}")
                             continue
                     time.sleep(5)
             except:

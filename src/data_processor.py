@@ -45,9 +45,9 @@ def get_flight_data(details, flight):
             f"Unable to fetch the logo due to lack of "
             f"IATA: {airline_iata} or ICAO: {airline_icao}."
         )
-        print(f"Unable to fetch the logo due to lack of IATA: {airline_iata} or ICAO: {airline_icao}.")
+        # print(f"Unable to fetch the logo due to lack of IATA: {airline_iata} or ICAO: {airline_icao}.")
 
-    print(f"Logo before returning to flight_detection: {logo}")
+    # print(f"Logo before returning to flight_detection: {logo}")
         
     return {
         "airline_name": airline,
@@ -79,13 +79,13 @@ def check_fl(flight_data):
 
 def message(flight_data):
     msg = (
-        f" Airline: {flight_data['airline_name']}\n"
-        f" Callsign: {flight_data['callsign']}\n"
-        f" Flight number: {flight_data['number']}\n"
-        f" Aircraft Type: {flight_data['aircraft']}\n"
-        f" From: {flight_data['origin']}\n"
-        f" To: {flight_data['destination']}\n"
-        f" Flight status: {flight_data['flight_status']}\n"
+        # f" Airline: {flight_data['airline_name']}\n"
+        # f" Callsign: {flight_data['callsign']}\n"
+        # f" Flight number: {flight_data['number']}\n"
+        # f" Aircraft Type: {flight_data['aircraft']}\n"
+        # f" From: {flight_data['origin']}\n"
+        # f" To: {flight_data['destination']}\n"
+        # f" Flight status: {flight_data['flight_status']}\n"
         f" Altitude {flight_data['flight_level']} feet\n"
     )
 
@@ -100,11 +100,11 @@ def get_logo_image(airline_iata, airline_icao):
         filename = f'.//airline_logo.jpg'
         with open(filename, 'wb') as f:
             image = f.write(logo[0])
-        print("Logo generated successfully")
+        # print("Logo generated successfully")
         logging.info("Logo generated successfully.")
         return filename, True
     except:
-        print("Logo not found.")
+        # print("Logo not found.")
         logging.info("Logo not found.")
         return filename, False
 
