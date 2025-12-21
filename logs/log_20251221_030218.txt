@@ -1,0 +1,36 @@
+2025-12-21 03:02:18 - INFO - Current locaiton is Chicago
+2025-12-21 03:02:18 - INFO - Starting the script
+2025-12-21 03:02:19 - INFO - IATA: VB of type: <class 'str'> and ICAO: VIV of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:19 - INFO - Logo generated successfully.
+2025-12-21 03:02:19 - INFO - Discarded the flight VB867 because it is above 10k feet.
+2025-12-21 03:02:19 - INFO - Discarded the flight VB867 because it is above 10k feet.
+2025-12-21 03:02:19 - INFO - Discarded the flight VB867 because it is above 10k feet.
+2025-12-21 03:02:19 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:19 - INFO - Logo generated successfully.
+2025-12-21 03:02:25 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:25 - INFO - Logo generated successfully.
+2025-12-21 03:02:30 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:30 - INFO - Logo generated successfully.
+2025-12-21 03:02:35 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:35 - INFO - Logo generated successfully.
+2025-12-21 03:02:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:40 - INFO - Logo generated successfully.
+2025-12-21 03:02:41 - INFO - Duplicate flight UAL1383
+2025-12-21 03:02:41 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:41 - INFO - Logo not found.
+2025-12-21 03:02:41 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:41 - INFO - Logo not found.
+2025-12-21 03:02:41 - INFO - Duplicate flight UAL1383
+2025-12-21 03:02:41 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:41 - INFO - Logo generated successfully.
+2025-12-21 03:02:47 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:47 - INFO - Logo generated successfully.
+2025-12-21 03:02:52 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:52 - INFO - Logo generated successfully.
+2025-12-21 03:02:57 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:57 - INFO - Logo generated successfully.
+2025-12-21 03:02:59 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:02:59 - INFO - Logo generated successfully.
+2025-12-21 03:02:59 - INFO - Discarded the flight UA4599 because it is above 10k feet.
+2025-12-21 03:02:59 - INFO - Discarded the flight UA4599 because it is above 10k feet.
+2025-12-21 03:02:59 - INFO - Discarded the flight UA4599 because it is above 10k feet.

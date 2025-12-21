@@ -1,0 +1,15 @@
+2025-12-21 02:45:35 - INFO - Current locaiton is Chicago
+2025-12-21 02:45:35 - INFO - Starting the script
+2025-12-21 02:45:35 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:45:36 - INFO - Logo generated successfully.
+2025-12-21 02:45:36 - INFO - Airline: United Airlines, Callsign: UAL661, Flight number: UA661, Aircraft Type: Boeing 737-924(ER), From: New York Newark Liberty International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:35, Flight level: 0
+2025-12-21 02:45:36 - INFO - Sending notification with an image for United Airlines
+2025-12-21 02:45:37 - INFO - Duplicate flight UAL661
+2025-12-21 02:45:37 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:45:37 - INFO - Logo generated successfully.
+2025-12-21 02:45:37 - INFO - Airline: American Airlines, Callsign: AAL1290, Flight number: AA1290, Aircraft Type: Boeing 737-823, From: Dallas Fort Worth International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:37, Flight level: 0
+2025-12-21 02:45:37 - INFO - Sending notification with an image for American Airlines
+2025-12-21 02:45:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:45:40 - INFO - Logo generated successfully.
+2025-12-21 02:45:40 - INFO - Airline: United Airlines, Callsign: UAL661, Flight number: UA661, Aircraft Type: Boeing 737-924(ER), From: New York Newark Liberty International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:35, Flight level: 0
+2025-12-21 02:45:40 - INFO - Sending notification with an image for United Airlines

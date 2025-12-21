@@ -1,0 +1,37 @@
+2025-12-21 02:56:52 - INFO - Current locaiton is Chicago
+2025-12-21 02:56:52 - INFO - Starting the script
+2025-12-21 02:56:52 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:56:53 - INFO - Logo generated successfully.
+2025-12-21 02:56:53 - INFO - Airline: American Airlines, Callsign: AAL856, Flight number: AA856, Aircraft Type: Boeing 737-823, From: Chicago O'Hare International Airport, To: Fort Lauderdale Hollywood International Airport ,Flight status: Scheduled, Flight level: 5200
+2025-12-21 02:56:53 - INFO - Sending notification with an image for American Airlines
+2025-12-21 02:56:58 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:56:58 - INFO - Logo generated successfully.
+2025-12-21 02:56:58 - INFO - Airline: United Express, Callsign: RPA3464, Flight number: UA3464, Aircraft Type: Embraer E175LR, From: Windsor Locks Bradley International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:51, Flight level: 0
+2025-12-21 02:56:58 - INFO - Sending notification with an image for United Express
+2025-12-21 02:57:04 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:04 - INFO - Logo generated successfully.
+2025-12-21 02:57:04 - INFO - Airline: American Eagle, Callsign: SKW6225, Flight number: AA6225, Aircraft Type: Mitsubishi CRJ-701ER, From: Des Moines International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:53, Flight level: 0
+2025-12-21 02:57:04 - INFO - Sending notification with an image for American Eagle
+2025-12-21 02:57:09 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:09 - INFO - Logo generated successfully.
+2025-12-21 02:57:09 - INFO - Airline: United Express, Callsign: RPA3464, Flight number: UA3464, Aircraft Type: Embraer E175LR, From: Windsor Locks Bradley International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:51, Flight level: 0
+2025-12-21 02:57:09 - INFO - Sending notification with an image for United Express
+2025-12-21 02:57:10 - INFO - Duplicate flight RPA3464
+2025-12-21 02:57:10 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:10 - INFO - Logo generated successfully.
+2025-12-21 02:57:10 - INFO - Airline: American Eagle, Callsign: SKW6225, Flight number: AA6225, Aircraft Type: Mitsubishi CRJ-701ER, From: Des Moines International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:53, Flight level: 0
+2025-12-21 02:57:10 - INFO - Sending notification with an image for American Eagle
+2025-12-21 02:57:10 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:10 - INFO - Logo generated successfully.
+2025-12-21 02:57:10 - INFO - Airline: United Express, Callsign: RPA3464, Flight number: UA3464, Aircraft Type: Embraer E175LR, From: Windsor Locks Bradley International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:51, Flight level: 0
+2025-12-21 02:57:10 - INFO - Sending notification with an image for United Express
+2025-12-21 02:57:11 - INFO - Duplicate flight RPA3464
+2025-12-21 02:57:11 - INFO - Duplicate flight RPA3464
+2025-12-21 02:57:11 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:11 - INFO - Logo generated successfully.
+2025-12-21 02:57:11 - INFO - Airline: United Express, Callsign: RPA3433, Flight number: UA3433, Aircraft Type: Embraer E175LR, From: Des Moines International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:55, Flight level: 0
+2025-12-21 02:57:11 - INFO - Sending notification with an image for United Express
+2025-12-21 02:57:12 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 02:57:13 - INFO - Logo generated successfully.
+2025-12-21 02:57:13 - INFO - Airline: United Express, Callsign: RPA3464, Flight number: UA3464, Aircraft Type: Embraer E175LR, From: Windsor Locks Bradley International Airport, To: Chicago O'Hare International Airport ,Flight status: 19:51, Flight level: 0
+2025-12-21 02:57:13 - INFO - Sending notification with an image for United Express

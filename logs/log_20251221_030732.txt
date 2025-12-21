@@ -1,0 +1,168 @@
+2025-12-21 03:07:32 - INFO - Current locaiton is Chicago
+2025-12-21 03:07:32 - INFO - Starting the script
+2025-12-21 03:07:33 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:33 - INFO - Logo generated successfully.
+2025-12-21 03:07:33 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:33 - INFO - Logo generated successfully.
+2025-12-21 03:07:33 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:33 - INFO - Logo generated successfully.
+2025-12-21 03:07:33 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:33 - INFO - Logo generated successfully.
+2025-12-21 03:07:33 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:34 - INFO - Logo generated successfully.
+2025-12-21 03:07:34 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:34 - INFO - Logo generated successfully.
+2025-12-21 03:07:34 - INFO - IATA: KD of type: <class 'str'> and ICAO: WGN of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:34 - INFO - Logo generated successfully.
+2025-12-21 03:07:34 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:34 - INFO - Logo generated successfully.
+2025-12-21 03:07:34 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:35 - INFO - Logo generated successfully.
+2025-12-21 03:07:35 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:35 - INFO - Logo generated successfully.
+2025-12-21 03:07:35 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:35 - INFO - Logo generated successfully.
+2025-12-21 03:07:35 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:35 - INFO - Logo generated successfully.
+2025-12-21 03:07:35 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:35 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:36 - INFO - Logo not found.
+2025-12-21 03:07:36 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:36 - INFO - Logo generated successfully.
+2025-12-21 03:07:36 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:36 - INFO - Logo generated successfully.
+2025-12-21 03:07:36 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:37 - INFO - Logo generated successfully.
+2025-12-21 03:07:37 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:37 - INFO - Logo generated successfully.
+2025-12-21 03:07:37 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:37 - INFO - Logo generated successfully.
+2025-12-21 03:07:37 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:37 - INFO - Logo generated successfully.
+2025-12-21 03:07:37 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:37 - INFO - Logo generated successfully.
+2025-12-21 03:07:38 - INFO - IATA: KD of type: <class 'str'> and ICAO: WGN of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:38 - INFO - Logo generated successfully.
+2025-12-21 03:07:38 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:38 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:38 - INFO - Logo generated successfully.
+2025-12-21 03:07:38 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:38 - INFO - Logo generated successfully.
+2025-12-21 03:07:38 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:38 - INFO - Logo generated successfully.
+2025-12-21 03:07:38 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:39 - INFO - Logo generated successfully.
+2025-12-21 03:07:39 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:39 - INFO - Logo generated successfully.
+2025-12-21 03:07:39 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:39 - INFO - Logo not found.
+2025-12-21 03:07:39 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:39 - INFO - Logo generated successfully.
+2025-12-21 03:07:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:40 - INFO - Logo generated successfully.
+2025-12-21 03:07:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:40 - INFO - Logo generated successfully.
+2025-12-21 03:07:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:40 - INFO - Logo generated successfully.
+2025-12-21 03:07:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:40 - INFO - Logo generated successfully.
+2025-12-21 03:07:40 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:40 - INFO - Logo generated successfully.
+2025-12-21 03:07:41 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:41 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:41 - INFO - Logo generated successfully.
+2025-12-21 03:07:41 - INFO - IATA: KD of type: <class 'str'> and ICAO: WGN of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:41 - INFO - Logo generated successfully.
+2025-12-21 03:07:41 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:41 - INFO - Logo generated successfully.
+2025-12-21 03:07:41 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:41 - INFO - Logo generated successfully.
+2025-12-21 03:07:42 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:42 - INFO - Logo generated successfully.
+2025-12-21 03:07:42 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:42 - INFO - Logo generated successfully.
+2025-12-21 03:07:42 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:42 - INFO - Logo generated successfully.
+2025-12-21 03:07:42 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:42 - INFO - Logo not found.
+2025-12-21 03:07:43 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:43 - INFO - Logo generated successfully.
+2025-12-21 03:07:43 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:43 - INFO - Logo generated successfully.
+2025-12-21 03:07:43 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:43 - INFO - Logo generated successfully.
+2025-12-21 03:07:43 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:43 - INFO - Logo generated successfully.
+2025-12-21 03:07:43 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:44 - INFO - Logo generated successfully.
+2025-12-21 03:07:44 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:44 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:44 - INFO - Logo generated successfully.
+2025-12-21 03:07:44 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:44 - INFO - Logo generated successfully.
+2025-12-21 03:07:44 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:44 - INFO - Logo generated successfully.
+2025-12-21 03:07:44 - INFO - IATA: KD of type: <class 'str'> and ICAO: WGN of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:44 - INFO - Logo generated successfully.
+2025-12-21 03:07:45 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:45 - INFO - Logo generated successfully.
+2025-12-21 03:07:45 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:45 - INFO - Logo generated successfully.
+2025-12-21 03:07:45 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:45 - INFO - Logo generated successfully.
+2025-12-21 03:07:45 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:46 - INFO - Logo generated successfully.
+2025-12-21 03:07:46 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:46 - INFO - Logo generated successfully.
+2025-12-21 03:07:46 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:46 - INFO - Logo generated successfully.
+2025-12-21 03:07:46 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:46 - INFO - Logo generated successfully.
+2025-12-21 03:07:47 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:47 - INFO - Logo generated successfully.
+2025-12-21 03:07:47 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:47 - INFO - Logo generated successfully.
+2025-12-21 03:07:47 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:47 - INFO - Logo generated successfully.
+2025-12-21 03:07:47 - INFO - Duplicate flight UAL1495
+2025-12-21 03:07:48 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:48 - INFO - Logo generated successfully.
+2025-12-21 03:07:48 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:48 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:48 - INFO - Logo generated successfully.
+2025-12-21 03:07:49 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:49 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:49 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:49 - INFO - Logo generated successfully.
+2025-12-21 03:07:49 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:49 - INFO - Logo generated successfully.
+2025-12-21 03:07:50 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:50 - INFO - Logo generated successfully.
+2025-12-21 03:07:50 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:50 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:51 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:51 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:51 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:52 - INFO - Logo generated successfully.
+2025-12-21 03:07:52 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:52 - INFO - Logo generated successfully.
+2025-12-21 03:07:52 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:52 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:52 - INFO - Logo generated successfully.
+2025-12-21 03:07:52 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:52 - INFO - Logo generated successfully.
+2025-12-21 03:07:53 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:53 - INFO - Logo generated successfully.
+2025-12-21 03:07:53 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:54 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:54 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:54 - INFO - Logo generated successfully.
+2025-12-21 03:07:54 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:54 - INFO - Logo generated successfully.
+2025-12-21 03:07:54 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:55 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:07:55 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:55 - INFO - Logo generated successfully.
+2025-12-21 03:07:55 - INFO - Duplicate flight AAL1594
+2025-12-21 03:07:55 - INFO - IATA: UA of type: <class 'str'> and ICAO: UAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:07:55 - INFO - Logo not found.

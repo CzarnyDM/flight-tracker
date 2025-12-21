@@ -1,0 +1,169 @@
+2025-12-21 03:24:13 - INFO - Current locaiton is Los Angeles
+2025-12-21 03:24:13 - INFO - Starting the script
+2025-12-21 03:24:13 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:13 - INFO - Logo generated successfully.
+2025-12-21 03:24:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:14 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:14 - INFO - Logo generated successfully.
+2025-12-21 03:24:14 - INFO - Discarded the flight DL2496 bbecause the flight is on the ground
+2025-12-21 03:24:14 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:14 - INFO - Logo generated successfully.
+2025-12-21 03:24:14 - INFO - Discarded the flight AS2422 because it is above 10k feet.
+2025-12-21 03:24:14 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:14 - INFO - Logo generated successfully.
+2025-12-21 03:24:14 - INFO - Discarded the flight DL355 bbecause the flight is on the ground
+2025-12-21 03:24:14 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:14 - INFO - Logo generated successfully.
+2025-12-21 03:24:14 - INFO - Discarded the flight DL4148 bbecause the flight is on the ground
+2025-12-21 03:24:15 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:15 - INFO - Logo generated successfully.
+2025-12-21 03:24:15 - INFO - Discarded the flight DL3907 bbecause the flight is on the ground
+2025-12-21 03:24:15 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:15 - INFO - Logo generated successfully.
+2025-12-21 03:24:15 - INFO - Discarded the flight AA3222 bbecause the flight is on the ground
+2025-12-21 03:24:15 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:15 - INFO - Logo generated successfully.
+2025-12-21 03:24:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:15 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:15 - INFO - Logo generated successfully.
+2025-12-21 03:24:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:15 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:15 - INFO - Logo generated successfully.
+2025-12-21 03:24:15 - INFO - Discarded the flight DL38 bbecause the flight is on the ground
+2025-12-21 03:24:16 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:16 - INFO - Logo generated successfully.
+2025-12-21 03:24:16 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:24:16 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:16 - INFO - Logo generated successfully.
+2025-12-21 03:24:16 - INFO - Discarded the flight DL2154 bbecause the flight is on the ground
+2025-12-21 03:24:16 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:16 - INFO - Logo generated successfully.
+2025-12-21 03:24:16 - INFO - Discarded the flight DL420 bbecause the flight is on the ground
+2025-12-21 03:24:16 - INFO - IATA: EK of type: <class 'str'> and ICAO: UAE of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:16 - INFO - Logo generated successfully.
+2025-12-21 03:24:16 - INFO - Discarded the flight EK216 bbecause the flight is on the ground
+2025-12-21 03:24:17 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:17 - INFO - Logo generated successfully.
+2025-12-21 03:24:17 - INFO - Discarded the flight AS1397 bbecause the flight is on the ground
+2025-12-21 03:24:17 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:17 - INFO - Logo generated successfully.
+2025-12-21 03:24:17 - INFO - Discarded the flight WN2555 bbecause the flight is on the ground
+2025-12-21 03:24:17 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:17 - INFO - Logo generated successfully.
+2025-12-21 03:24:17 - INFO - Discarded the flight WN2925 bbecause the flight is on the ground
+2025-12-21 03:24:17 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:24:17 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:17 - INFO - Logo generated successfully.
+2025-12-21 03:24:17 - INFO - Discarded the flight WN3519 bbecause the flight is on the ground
+2025-12-21 03:24:23 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:23 - INFO - Logo generated successfully.
+2025-12-21 03:24:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:23 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:23 - INFO - Logo generated successfully.
+2025-12-21 03:24:23 - INFO - Airline: Delta Connection, Callsign: SKW4148, Flight number: DL4148, Aircraft Type: Embraer E175LR, From: Los Angeles International Airport, To: Boise Airport ,Flight status: Scheduled, Flight level: 150
+2025-12-21 03:24:23 - INFO - Sending notification with an image for Delta Connection
+2025-12-21 03:24:28 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:28 - INFO - Logo generated successfully.
+2025-12-21 03:24:28 - INFO - Discarded the flight AS2422 because it is above 10k feet.
+2025-12-21 03:24:29 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:29 - INFO - Logo generated successfully.
+2025-12-21 03:24:29 - INFO - Discarded the flight DL2496 bbecause the flight is on the ground
+2025-12-21 03:24:29 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:29 - INFO - Logo generated successfully.
+2025-12-21 03:24:29 - INFO - Discarded the flight DL355 bbecause the flight is on the ground
+2025-12-21 03:24:29 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:29 - INFO - Logo generated successfully.
+2025-12-21 03:24:29 - INFO - Discarded the flight DL3907 bbecause the flight is on the ground
+2025-12-21 03:24:29 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:29 - INFO - Logo generated successfully.
+2025-12-21 03:24:29 - INFO - Discarded the flight AA3222 bbecause the flight is on the ground
+2025-12-21 03:24:29 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:29 - INFO - Logo generated successfully.
+2025-12-21 03:24:29 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:30 - INFO - Logo generated successfully.
+2025-12-21 03:24:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:30 - INFO - Logo generated successfully.
+2025-12-21 03:24:30 - INFO - Discarded the flight DL38 bbecause the flight is on the ground
+2025-12-21 03:24:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:30 - INFO - Logo generated successfully.
+2025-12-21 03:24:30 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:24:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:30 - INFO - Logo generated successfully.
+2025-12-21 03:24:30 - INFO - Discarded the flight DL2154 bbecause the flight is on the ground
+2025-12-21 03:24:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:30 - INFO - Logo generated successfully.
+2025-12-21 03:24:30 - INFO - Discarded the flight DL420 bbecause the flight is on the ground
+2025-12-21 03:24:31 - INFO - IATA: EK of type: <class 'str'> and ICAO: UAE of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:31 - INFO - Logo generated successfully.
+2025-12-21 03:24:31 - INFO - Discarded the flight EK216 bbecause the flight is on the ground
+2025-12-21 03:24:31 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:31 - INFO - Logo generated successfully.
+2025-12-21 03:24:31 - INFO - Discarded the flight AS1397 bbecause the flight is on the ground
+2025-12-21 03:24:31 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:31 - INFO - Logo generated successfully.
+2025-12-21 03:24:31 - INFO - Discarded the flight WN2555 bbecause the flight is on the ground
+2025-12-21 03:24:31 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:31 - INFO - Logo generated successfully.
+2025-12-21 03:24:31 - INFO - Discarded the flight WN2925 bbecause the flight is on the ground
+2025-12-21 03:24:31 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:24:32 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:32 - INFO - Logo generated successfully.
+2025-12-21 03:24:32 - INFO - Discarded the flight WN3519 bbecause the flight is on the ground
+2025-12-21 03:24:37 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:37 - INFO - Logo generated successfully.
+2025-12-21 03:24:37 - INFO - Airline: Delta Connection, Callsign: SKW4148, Flight number: DL4148, Aircraft Type: Embraer E175LR, From: Los Angeles International Airport, To: Boise Airport ,Flight status: Scheduled, Flight level: 825
+2025-12-21 03:24:37 - INFO - Sending notification with an image for Delta Connection
+2025-12-21 03:24:42 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:42 - INFO - Logo generated successfully.
+2025-12-21 03:24:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:43 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:43 - INFO - Logo generated successfully.
+2025-12-21 03:24:43 - INFO - Discarded the flight AS2422 because it is above 10k feet.
+2025-12-21 03:24:43 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:43 - INFO - Logo generated successfully.
+2025-12-21 03:24:43 - INFO - Discarded the flight DL2496 bbecause the flight is on the ground
+2025-12-21 03:24:44 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:44 - INFO - Logo generated successfully.
+2025-12-21 03:24:44 - INFO - Discarded the flight DL355 bbecause the flight is on the ground
+2025-12-21 03:24:44 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:44 - INFO - Logo generated successfully.
+2025-12-21 03:24:44 - INFO - Discarded the flight DL3907 bbecause the flight is on the ground
+2025-12-21 03:24:44 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:44 - INFO - Logo generated successfully.
+2025-12-21 03:24:44 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:44 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:44 - INFO - Logo generated successfully.
+2025-12-21 03:24:44 - INFO - Discarded the flight AA3222 bbecause the flight is on the ground
+2025-12-21 03:24:45 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:45 - INFO - Logo generated successfully.
+2025-12-21 03:24:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:24:45 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:45 - INFO - Logo generated successfully.
+2025-12-21 03:24:45 - INFO - Discarded the flight DL38 bbecause the flight is on the ground
+2025-12-21 03:24:45 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:45 - INFO - Logo generated successfully.
+2025-12-21 03:24:45 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:24:45 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:45 - INFO - Logo generated successfully.
+2025-12-21 03:24:45 - INFO - Discarded the flight DL2154 bbecause the flight is on the ground
+2025-12-21 03:24:45 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:45 - INFO - Logo generated successfully.
+2025-12-21 03:24:45 - INFO - Discarded the flight DL420 bbecause the flight is on the ground
+2025-12-21 03:24:46 - INFO - IATA: EK of type: <class 'str'> and ICAO: UAE of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:46 - INFO - Logo generated successfully.
+2025-12-21 03:24:46 - INFO - Discarded the flight EK216 bbecause the flight is on the ground
+2025-12-21 03:24:46 - INFO - IATA: AS of type: <class 'str'> and ICAO: ASA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:46 - INFO - Logo generated successfully.
+2025-12-21 03:24:46 - INFO - Discarded the flight AS1397 bbecause the flight is on the ground
+2025-12-21 03:24:46 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:46 - INFO - Logo generated successfully.
+2025-12-21 03:24:46 - INFO - Discarded the flight WN2555 bbecause the flight is on the ground
+2025-12-21 03:24:46 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:46 - INFO - Logo generated successfully.
+2025-12-21 03:24:46 - INFO - Discarded the flight WN2925 bbecause the flight is on the ground
+2025-12-21 03:24:46 - INFO - Details not returning dictonary, aborting the flight.
+2025-12-21 03:24:46 - INFO - IATA: WN of type: <class 'str'> and ICAO: SWA of type: <class 'str'> found, calling logo function
+2025-12-21 03:24:47 - INFO - Logo generated successfully.
+2025-12-21 03:24:47 - INFO - Discarded the flight WN3519 bbecause the flight is on the ground

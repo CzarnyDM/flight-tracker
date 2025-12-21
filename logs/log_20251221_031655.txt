@@ -1,0 +1,1020 @@
+2025-12-21 03:16:55 - INFO - Current locaiton is Los Angeles
+2025-12-21 03:16:55 - INFO - Starting the script
+2025-12-21 03:16:56 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:16:56 - INFO - Logo generated successfully.
+2025-12-21 03:17:01 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:01 - INFO - Logo generated successfully.
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:01 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:01 - INFO - Logo generated successfully.
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:02 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:02 - INFO - Logo generated successfully.
+2025-12-21 03:17:02 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:02 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:02 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:02 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:02 - INFO - Logo not found.
+2025-12-21 03:17:03 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:03 - INFO - Logo generated successfully.
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:03 - INFO - Logo generated successfully.
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:03 - INFO - Logo generated successfully.
+2025-12-21 03:17:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:03 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:04 - INFO - Logo not found.
+2025-12-21 03:17:04 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:04 - INFO - Logo generated successfully.
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:04 - INFO - Logo generated successfully.
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:04 - INFO - Logo generated successfully.
+2025-12-21 03:17:04 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:04 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:05 - INFO - Logo not found.
+2025-12-21 03:17:05 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:05 - INFO - Logo generated successfully.
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:05 - INFO - Logo generated successfully.
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:05 - INFO - Logo generated successfully.
+2025-12-21 03:17:05 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:05 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:06 - INFO - Logo not found.
+2025-12-21 03:17:06 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:06 - INFO - Logo generated successfully.
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:06 - INFO - Logo generated successfully.
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:06 - INFO - Logo generated successfully.
+2025-12-21 03:17:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:06 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:07 - INFO - Logo not found.
+2025-12-21 03:17:07 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:07 - INFO - Logo generated successfully.
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:07 - INFO - Logo generated successfully.
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:07 - INFO - Logo generated successfully.
+2025-12-21 03:17:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:08 - INFO - Logo not found.
+2025-12-21 03:17:08 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:08 - INFO - Logo generated successfully.
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:08 - INFO - Logo generated successfully.
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:08 - INFO - Logo generated successfully.
+2025-12-21 03:17:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:09 - INFO - Logo not found.
+2025-12-21 03:17:09 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:09 - INFO - Logo generated successfully.
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:09 - INFO - Logo generated successfully.
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:09 - INFO - Logo generated successfully.
+2025-12-21 03:17:09 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:09 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:10 - INFO - Logo not found.
+2025-12-21 03:17:10 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:10 - INFO - Logo generated successfully.
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:10 - INFO - Logo generated successfully.
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:10 - INFO - Logo generated successfully.
+2025-12-21 03:17:10 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:10 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:11 - INFO - Logo not found.
+2025-12-21 03:17:11 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:11 - INFO - Logo generated successfully.
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:11 - INFO - Logo generated successfully.
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:11 - INFO - Logo generated successfully.
+2025-12-21 03:17:11 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:11 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:12 - INFO - Logo not found.
+2025-12-21 03:17:12 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:12 - INFO - Logo generated successfully.
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:12 - INFO - Logo generated successfully.
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:12 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:13 - INFO - Logo generated successfully.
+2025-12-21 03:17:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:13 - INFO - Logo not found.
+2025-12-21 03:17:13 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:13 - INFO - Logo generated successfully.
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:13 - INFO - Logo generated successfully.
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:14 - INFO - Logo generated successfully.
+2025-12-21 03:17:14 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:14 - INFO - Logo not found.
+2025-12-21 03:17:14 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:14 - INFO - Logo generated successfully.
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:14 - INFO - Logo generated successfully.
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:15 - INFO - Logo generated successfully.
+2025-12-21 03:17:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:15 - INFO - Logo not found.
+2025-12-21 03:17:15 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:15 - INFO - Logo generated successfully.
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:15 - INFO - Logo generated successfully.
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:15 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:16 - INFO - Logo generated successfully.
+2025-12-21 03:17:16 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:16 - INFO - Logo not found.
+2025-12-21 03:17:16 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:16 - INFO - Logo generated successfully.
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:16 - INFO - Logo generated successfully.
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:17 - INFO - Logo generated successfully.
+2025-12-21 03:17:17 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:17 - INFO - Logo not found.
+2025-12-21 03:17:17 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:17 - INFO - Logo generated successfully.
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:17 - INFO - Logo generated successfully.
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:17 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:18 - INFO - Logo generated successfully.
+2025-12-21 03:17:18 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:18 - INFO - Logo not found.
+2025-12-21 03:17:18 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:18 - INFO - Logo generated successfully.
+2025-12-21 03:17:18 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:18 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:19 - INFO - Logo generated successfully.
+2025-12-21 03:17:19 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:19 - INFO - Logo generated successfully.
+2025-12-21 03:17:19 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:19 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:19 - INFO - Logo not found.
+2025-12-21 03:17:19 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:20 - INFO - Logo generated successfully.
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:20 - INFO - Logo generated successfully.
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:20 - INFO - Logo generated successfully.
+2025-12-21 03:17:20 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:20 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:20 - INFO - Logo not found.
+2025-12-21 03:17:21 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:21 - INFO - Logo generated successfully.
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:21 - INFO - Logo generated successfully.
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:21 - INFO - Logo generated successfully.
+2025-12-21 03:17:21 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:21 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:21 - INFO - Logo not found.
+2025-12-21 03:17:22 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:22 - INFO - Logo generated successfully.
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:22 - INFO - Logo generated successfully.
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:22 - INFO - Logo generated successfully.
+2025-12-21 03:17:22 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:22 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:22 - INFO - Logo not found.
+2025-12-21 03:17:23 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:23 - INFO - Logo generated successfully.
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:23 - INFO - Logo generated successfully.
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:23 - INFO - Logo generated successfully.
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:23 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:24 - INFO - Logo generated successfully.
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:24 - INFO - Logo generated successfully.
+2025-12-21 03:17:24 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:24 - INFO - Logo not found.
+2025-12-21 03:17:24 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:24 - INFO - Logo generated successfully.
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:24 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:25 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:25 - INFO - Logo generated successfully.
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:25 - INFO - Logo generated successfully.
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:25 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:26 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:26 - INFO - Logo generated successfully.
+2025-12-21 03:17:26 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:26 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:26 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:26 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:26 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:27 - INFO - Logo generated successfully.
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:27 - INFO - Logo generated successfully.
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:27 - INFO - Logo generated successfully.
+2025-12-21 03:17:27 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:27 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:27 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:28 - INFO - Logo generated successfully.
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:28 - INFO - Logo generated successfully.
+2025-12-21 03:17:28 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:28 - INFO - Logo generated successfully.
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:28 - INFO - Logo generated successfully.
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:28 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:29 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:29 - INFO - Logo generated successfully.
+2025-12-21 03:17:29 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:29 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:29 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:29 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:30 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:30 - INFO - Logo generated successfully.
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:30 - INFO - Logo generated successfully.
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:30 - INFO - Logo generated successfully.
+2025-12-21 03:17:30 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:30 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:30 - INFO - Logo not found.
+2025-12-21 03:17:31 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:31 - INFO - Logo generated successfully.
+2025-12-21 03:17:31 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:31 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:31 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:31 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:32 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:32 - INFO - Logo generated successfully.
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:32 - INFO - Logo generated successfully.
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:32 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:33 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:33 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:33 - INFO - Logo generated successfully.
+2025-12-21 03:17:33 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:33 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:33 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:33 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:33 - INFO - Logo generated successfully.
+2025-12-21 03:17:33 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:33 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:33 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:34 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:34 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:34 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:35 - INFO - Logo generated successfully.
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:35 - INFO - Logo generated successfully.
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:35 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:36 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:36 - INFO - Logo generated successfully.
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:36 - INFO - Logo generated successfully.
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:36 - INFO - Logo generated successfully.
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:36 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:37 - INFO - Logo generated successfully.
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:37 - INFO - Logo generated successfully.
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:37 - INFO - Logo generated successfully.
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:37 - INFO - Logo generated successfully.
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:37 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:38 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:38 - INFO - Logo generated successfully.
+2025-12-21 03:17:38 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:38 - INFO - Logo generated successfully.
+2025-12-21 03:17:38 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:38 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:39 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:39 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:39 - INFO - Logo generated successfully.
+2025-12-21 03:17:39 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:39 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:39 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:39 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:40 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:40 - INFO - Logo generated successfully.
+2025-12-21 03:17:40 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:40 - INFO - Logo generated successfully.
+2025-12-21 03:17:40 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:40 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:41 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:41 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:41 - INFO - Logo generated successfully.
+2025-12-21 03:17:41 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:41 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:41 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:42 - INFO - Logo generated successfully.
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:42 - INFO - Logo generated successfully.
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:42 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:42 - INFO - Logo generated successfully.
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:42 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:43 - INFO - Logo generated successfully.
+2025-12-21 03:17:43 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:43 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:43 - INFO - Logo generated successfully.
+2025-12-21 03:17:43 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:43 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:44 - INFO - Logo generated successfully.
+2025-12-21 03:17:44 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:44 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:44 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:44 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:44 - INFO - Logo not found.
+2025-12-21 03:17:44 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:44 - INFO - Logo generated successfully.
+2025-12-21 03:17:44 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:44 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:44 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:45 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:45 - INFO - Logo generated successfully.
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:45 - INFO - Logo generated successfully.
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:45 - INFO - Logo generated successfully.
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:45 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:46 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:46 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:46 - INFO - Logo generated successfully.
+2025-12-21 03:17:46 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:46 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:46 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:47 - INFO - Logo generated successfully.
+2025-12-21 03:17:47 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:47 - INFO - Logo generated successfully.
+2025-12-21 03:17:47 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:47 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:48 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:48 - INFO - Logo generated successfully.
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:48 - INFO - Logo generated successfully.
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:48 - INFO - Logo generated successfully.
+2025-12-21 03:17:48 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:48 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:48 - INFO - Logo not found.
+2025-12-21 03:17:49 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:49 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:49 - INFO - Logo generated successfully.
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:49 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:49 - INFO - Logo generated successfully.
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:49 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:50 - INFO - Logo generated successfully.
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:50 - INFO - Logo generated successfully.
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:50 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:51 - INFO - Logo generated successfully.
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:51 - INFO - Logo generated successfully.
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:51 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:52 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:52 - INFO - Logo generated successfully.
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:52 - INFO - Logo generated successfully.
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:52 - INFO - Logo generated successfully.
+2025-12-21 03:17:52 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:52 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:53 - INFO - Logo generated successfully.
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:53 - INFO - Logo generated successfully.
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:53 - INFO - Logo generated successfully.
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:53 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:54 - INFO - Logo generated successfully.
+2025-12-21 03:17:54 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:54 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:54 - INFO - Logo generated successfully.
+2025-12-21 03:17:54 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:54 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:55 - INFO - Logo generated successfully.
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:55 - INFO - Logo generated successfully.
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:55 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:56 - INFO - Logo generated successfully.
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:56 - INFO - Logo generated successfully.
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:56 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:56 - INFO - Logo generated successfully.
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:56 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:57 - INFO - Logo generated successfully.
+2025-12-21 03:17:57 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:57 - INFO - Logo generated successfully.
+2025-12-21 03:17:57 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:57 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:58 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:58 - INFO - Logo generated successfully.
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:58 - INFO - Logo generated successfully.
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:58 - INFO - Logo generated successfully.
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:17:58 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:17:59 - INFO - Logo generated successfully.
+2025-12-21 03:17:59 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:59 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:59 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:17:59 - INFO - Duplicate flight N838AA
+2025-12-21 03:17:59 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:00 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:00 - INFO - Logo generated successfully.
+2025-12-21 03:18:00 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:00 - INFO - Logo generated successfully.
+2025-12-21 03:18:00 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:00 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:00 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:01 - INFO - Logo generated successfully.
+2025-12-21 03:18:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:01 - INFO - Logo generated successfully.
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:01 - INFO - Logo generated successfully.
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:01 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:01 - INFO - Logo not found.
+2025-12-21 03:18:02 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:02 - INFO - Logo generated successfully.
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:02 - INFO - Logo generated successfully.
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:02 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:03 - INFO - Logo generated successfully.
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:03 - INFO - Logo generated successfully.
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:03 - INFO - Logo generated successfully.
+2025-12-21 03:18:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:03 - INFO - Logo generated successfully.
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:03 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:04 - INFO - Logo generated successfully.
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:04 - INFO - Logo generated successfully.
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:04 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:05 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:05 - INFO - Logo generated successfully.
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:05 - INFO - Logo generated successfully.
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:05 - INFO - Logo generated successfully.
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:05 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:06 - INFO - Logo generated successfully.
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:06 - INFO - Logo generated successfully.
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:06 - INFO - Logo generated successfully.
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:06 - INFO - Logo generated successfully.
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:06 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:07 - INFO - Logo generated successfully.
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:07 - INFO - Logo generated successfully.
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:07 - INFO - Logo generated successfully.
+2025-12-21 03:18:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:07 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:08 - INFO - Logo generated successfully.
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:08 - INFO - Logo generated successfully.
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:08 - INFO - Logo generated successfully.
+2025-12-21 03:18:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:08 - INFO - Logo generated successfully.
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:08 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:09 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:09 - INFO - Logo generated successfully.
+2025-12-21 03:18:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:09 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:09 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:10 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:10 - INFO - Logo generated successfully.
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:10 - INFO - Logo generated successfully.
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:10 - INFO - Logo generated successfully.
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:10 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:11 - INFO - Logo generated successfully.
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:11 - INFO - Logo generated successfully.
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:11 - INFO - Logo generated successfully.
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:11 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:12 - INFO - Logo generated successfully.
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:12 - INFO - Logo generated successfully.
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:12 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:13 - INFO - Logo generated successfully.
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:13 - INFO - Logo generated successfully.
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:13 - INFO - Logo generated successfully.
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:13 - INFO - Logo generated successfully.
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:13 - INFO - Discarded the flight DL1161 bbecause the flight is on the ground
+2025-12-21 03:18:14 - INFO - IATA: N/A of type: <class 'str'> and ICAO: N/A of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:14 - INFO - Logo not found.
+2025-12-21 03:18:14 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:14 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:14 - INFO - Logo generated successfully.
+2025-12-21 03:18:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:14 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:15 - INFO - IATA: DL of type: <class 'str'> and ICAO: DAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:15 - INFO - Logo generated successfully.
+2025-12-21 03:18:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:15 - INFO - Discarded the flight DL1421 bbecause the flight is on the ground
+2025-12-21 03:18:15 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:15 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:16 - INFO - Logo generated successfully.
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - IATA: AA of type: <class 'str'> and ICAO: AAL of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:16 - INFO - Logo generated successfully.
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - IATA: CM of type: <class 'str'> and ICAO: CMP of type: <class 'str'> found, calling logo function
+2025-12-21 03:18:16 - INFO - Logo generated successfully.
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:16 - INFO - Discarded the flight  bbecause the flight is on the ground
+2025-12-21 03:18:17 - INFO - Duplicate flight N838AA
+2025-12-21 03:18:17 - INFO - Duplicate flight N838AA
